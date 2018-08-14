@@ -2,6 +2,6 @@
 
 **Features.**
 
-Fetch News form selected source.
-Multiple sources available
-Progressive Web Application so can be accessed offline.
+1. Fetch News form selected source.
+2. Multiple sources available
+3. Progressive Web Application so can be accessed offline.
