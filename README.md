@@ -1,6 +1,6 @@
-News Web Appliction.
+## News Web Appliction.
 
-Features.
+**Features.**
 
 Fetch News form selected source.
 Multiple sources available
